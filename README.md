@@ -11,7 +11,7 @@ Clone the repository:
 
 bash
 Copy code:
-git clone https://github.com/yourusername/classic-calculator.git
+git clone https://github.com/Jayxad/Python-Calculator.git
 cd classic-calculator
 Install dependencies:
 Ensure you have Python and Tkinter installed. Tkinter is typically included with Python distributions.
